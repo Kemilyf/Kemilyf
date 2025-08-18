@@ -7,7 +7,6 @@ I am a computer technician at IFRO, studying the 4th period of information syste
   <a href="https://github.com/Kemilyf">
 </div>
    
-##   
 
 <div>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -22,6 +21,6 @@ I am a computer technician at IFRO, studying the 4th period of information syste
 
 <div>
  
- <img height="180em" src="/n https://github-readme-stats.vercel.app/api?username=kemilyf&theme=buefy&show_icons=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kemilyf&theme=buefy&show_icons=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemilyf&layout=donut"/>
 </div>
