@@ -1,4 +1,8 @@
- Olá! Eu sou a Kemily e atualmente sou estudante de sistemas de informação
+<h1 align="center">Hi 👋 I'm Kemily Freitas</h1>
+
+# 💫 About Me:
+I am a computer technician at IFRO, studying the 4th period of information systems.
+
  <div>
   <a href="https://github.com/Kemilyf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kemilyf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
