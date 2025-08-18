@@ -7,8 +7,7 @@ I am a computer technician at IFRO, studying the 4th period of information syste
   <a href="https://github.com/Kemilyf">
 </div>
    
- ##
- 💻 Tech Stack:
+# 💻 Tech Stack:
 <div style="display: inline_block"><br>
   Languages:
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -16,13 +15,10 @@ I am a computer technician at IFRO, studying the 4th period of information syste
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
- 
   SGBDs:
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-
-  
 </div>
-##
+#
 📊 Stats
 
 <div>
