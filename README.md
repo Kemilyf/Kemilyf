@@ -19,7 +19,9 @@ I am a computer technician at IFRO, studying the 4th period of information syste
 
   
 </div>
+
 <div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kemilyf&theme=buefy&show_icons=true"/>
+ 
+ <img height="180em" src="\n https://github-readme-stats.vercel.app/api?username=kemilyf&theme=buefy&show_icons=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemilyf&layout=donut"/>
 </div>
