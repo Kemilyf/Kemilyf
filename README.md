@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋 I'm Kemily Freitas</h1>
 
 # 💫 About Me:
-I am a computer technician at IFRO, studying the 4th period of information systems.
-
+Hello, nice to meet you! My name is Kemily and I'm a Computer Technician with a degree from IFRO. I'm currently in my 4th year of studying information systems at Unisapiens.
  <div>
   <a href="https://github.com/Kemilyf">
 </div>
