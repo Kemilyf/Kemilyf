@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋 I'm Kemily Freitas</h1>
+<h1 align="center">Olá👋 Eu sou a Kemily Freitas</h1>
 
-# 💫 About Me:
-Hello, nice to meet you! My name is Kemily and I'm a Computer Technician with a degree from IFRO. I'm currently in my 4th year of studying information systems.
+# 💫 Sobre mim:
+Olá, prazer em conhecê-lo(a)! Meu nome é Kemily e sou técnica em informática, formada pelo IFRO. Atualmente, estou no meu 5º ano de estudos em sistemas de informação.
  <div>
   <a href="https://github.com/Kemilyf">
 </div>
