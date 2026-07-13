@@ -1,7 +1,7 @@
 <h1 align="center">Olá👋 Eu sou a Kemily Freitas</h1>
 
 # 💫 Sobre mim:
-Olá, prazer em conhecê-lo(a)! Meu nome é Kemily e sou técnica em informática, formada pelo IFRO. Atualmente, estou no meu 5º ano de estudos em sistemas de informação.
+Olá, prazer em conhecê-lo(a)! Meu nome é Kemily e sou técnica em informática, formada pelo IFRO. Atualmente, estou no meu 5º período de sistemas de informação.
  <div>
   <a href="https://github.com/Kemilyf">
 </div>
